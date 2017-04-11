@@ -1,0 +1,4 @@
+/ksha256-neon
+/ksha256-omap
+*.o
+.dep/
